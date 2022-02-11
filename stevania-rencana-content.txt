@@ -2,9 +2,13 @@ Rencana kontent
 -javascript
   *ES6
   *Framework Javascript
-    ^angular
-    ^react
+   ^Vue
+   ^React
 -php framework
     ^laravel
--interview
+-Struktur Data Dasar
+-php framework
+   ^Laravel
+ -interview
 -vlogs
+-Phyton
