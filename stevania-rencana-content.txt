@@ -4,8 +4,10 @@ Rencana kontent
   *Framework Javascript
    ^Vue
    ^React
+   ^Angular
 -php framework
     ^laravel
+    ^Codeignitier
 -Struktur Data Dasar
 -php framework
    ^Laravel
